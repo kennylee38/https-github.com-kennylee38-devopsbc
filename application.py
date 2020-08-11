@@ -6,7 +6,7 @@ def say_hello(username = "World of Ketty"):
 
 # some bits of text for the page.
 header_text = '''
-    <html>\n<head> <title>EB Flask Test</title> </head>\n<body>'''
+    <html>\n<head> <title>Kolabear Men</title> </head>\n<body>'''
 instructions = '''
 <img src="https://images-na.ssl-images-amazon.com/images/I/514ogtKoy0L._SX258_BO1,204,203,200_.jpg" alt="Girl in a jacket" width="500" height="600">
 
@@ -16,7 +16,7 @@ instructions = '''
 
 <img src="https://ca.slack-edge.com/T013RLQAASY-U013J4J1M4M-5805170924f6-512" alt="Girl in a jacket" width="500" height="600">
 
-    <p style="background: purple">: This is a RESTful web service! Append a username
+    <p style="background: yellow">: This is a RESTful web service! Append a username
     to the URL (for example: <code>/Thelonious</code>) to say hello to
     someone specific.</p>\n'''
 home_link = '<p><a href="/">Back</a></p>\n'
