@@ -16,7 +16,7 @@ instructions = '''
 
 <img src="https://ca.slack-edge.com/T013RLQAASY-U013J4J1M4M-5805170924f6-512" alt="Girl in a jacket" width="500" height="600">
 
-    <p style="background: yellow">: This is a RESTful web service! Append a username
+    <p style="background: blue">: This is a RESTful web service! Append a username
     to the URL (for example: <code>/Thelonious</code>) to say hello to
     someone specific.</p>\n'''
 home_link = '<p><a href="/">Back</a></p>\n'
